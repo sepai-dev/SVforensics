@@ -1,0 +1,7 @@
+gdown
+requests
+pandas
+torch
+numpy
+matplotlib
+scikit-learn 
