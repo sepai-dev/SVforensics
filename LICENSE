@@ -1,0 +1,110 @@
+LICENÇA PÚBLICA DE SOFTWARE BRASILEIRO (LPS Brasil) - Versão 3.0
+=====================================================================
+NOTA: Esta é a versão original e oficial em Português da licença.
+Uma tradução para o Inglês está disponível no arquivo LICENSE.en.
+=====================================================================
+
+Esta licença foi criada em aderência ao ambiente jurídico brasileiro, 
+respeitando a legislação brasileira e a terminologia técnico-jurídica adotada,
+sendo compatível com licenças internacionais de software livre.
+
+PREÂMBULO
+
+Esta Licença Pública de Software Brasileiro (LPS Brasil) é um documento jurídico 
+e tem como objetivo proteger os direitos do usuário de software que utiliza esta 
+licença, permitindo que o mesmo tenha liberdade de usar, alterar e redistribuir o
+programa licenciado, vedando o exercício abusivo de direitos.
+
+O software licenciado por esta licença é livre e protegido pelas leis nacionais e
+internacionais que tratam da propriedade intelectual. A LPS Brasil não restringe
+os direitos do autor ou titular do programa de computador e está em conformidade
+com a política de software livre estabelecida pelo Governo Brasileiro, observando
+os princípios da liberdade de uso, cópia, alteração e redistribuição.
+
+Considerando que o programa licenciado através da LPS Brasil será livre por natureza,
+é permitido o uso, cópia, distribuição e modificação. Porém, para preservar os
+interesses dos autores/titulares e usuários, é proibido que este software seja
+incorporado em softwares proprietários e que o uso, cópia, distribuição e modificação
+sejam limitados por patentes industriais ou por qualquer outra forma que restrinja
+as liberdades do usuário.
+
+TERMOS E CONDIÇÕES
+
+DEFINIÇÕES:
+
+1. "Programa" significa o software licenciado por esta LPS Brasil, em seu formato
+   original ou modificado;
+2. "Programa Original" é o programa antes de qualquer alteração ter sido efetuada;
+3. "Programa Derivado" é o programa resultante da alteração realizada no Programa
+   Original;
+4. "Autor" é o titular dos direitos autorais sobre o Programa;
+5. "Licenciante" é aquele que distribui o programa sob esta licença;
+6. "Licenciado" é qualquer pessoa que recebe o programa sob esta licença;
+7. "Código-fonte" é a forma preferencial do programa para modificações, incluindo
+   todos os módulos que o compõem, arquivos de definição de interface, scripts e
+   outros necessários para a compilação e instalação do programa;
+8. "Interface" é um conjunto de funções, comandos, opções e formatos de mensagem
+   por meio dos quais um programa se comunica com o usuário ou com outros programas;
+9. "Biblioteca" é qualquer compilação de funções ou rotinas que podem ser utilizadas
+   por um programa;
+10. "Biblioteca Derivada" é qualquer biblioteca que derive por completo ou em partes
+    de uma biblioteca licenciada por esta licença.
+
+TERMOS DA LICENÇA:
+
+1. A LPS Brasil aplica-se a qualquer programa ou outro trabalho que contenha um
+   aviso colocado pelo titular dos direitos autorais informando que o programa pode
+   ser distribuído sob os termos desta licença.
+
+2. É garantido ao Licenciado o direito de copiar, modificar, publicar, distribuir,
+   sublicenciar e/ou vender cópias do programa, desde que sejam atendidas as seguintes
+   condições:
+
+   a) O Licenciado deve manter visível em todos os programas derivados o aviso de
+      direito autoral e uma cópia da licença;
+   b) O licenciado deverá fazer com que qualquer arquivo modificado contenha um aviso
+      bem visível indicando que o arquivo foi alterado e a data da alteração;
+   c) Se o programa derivado for interativo, deverá exibir aviso de direitos autorais
+      e indicar onde o texto integral da licença pode ser encontrado;
+   d) O licenciado deverá manter as atribuições de autoria.
+
+3. O código-fonte do programa, original ou derivado, deve estar disponível para qualquer
+   usuário.
+
+4. A distribuição de programas derivados está sujeita às mesmas condições estabelecidas
+   nesta licença.
+
+5. Qualquer uso, modificação ou distribuição do programa implica na aceitação dos
+   termos desta licença.
+
+6. Esta licença não concede qualquer tipo de autorização para o uso do nome dos
+   autores em publicidade.
+
+7. Esta licença não inclui direito de uso de patentes do autor/titular do programa.
+
+8. Aviso de Propriedade:
+   Projeto SVforensics, uma ferramenta para verificação forense de locutor.
+   Desenvolvido por Rafaello Virgilli e Lucas Alcântara Souza como parte de suas funções oficiais na Polícia Científica de Goiás (https://www.policiacientifica.go.gov.br/).
+   © 2023-2024 Polícia Científica de Goiás. Todos os direitos reservados.
+
+AUSÊNCIA DE GARANTIAS:
+
+O PROGRAMA É LICENCIADO SEM QUALQUER GARANTIA, SEJA EXPRESSA OU IMPLÍCITA, INCLUINDO,
+SEM LIMITAÇÃO, AS GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E DE ADEQUAÇÃO A UMA
+FINALIDADE ESPECÍFICA. O RISCO INTEGRAL QUANTO À QUALIDADE E DESEMPENHO DO PROGRAMA
+É ASSUMIDO PELO LICENCIADO. SE O PROGRAMA SE REVELAR DEFEITUOSO, O LICENCIADO ASSUME
+O CUSTO DE TODOS OS SERVIÇOS, REPAROS OU CORREÇÕES NECESSÁRIAS.
+
+LIMITAÇÃO DE RESPONSABILIDADE:
+
+EM NENHUMA CIRCUNSTÂNCIA, EXCETO QUANDO EXIGIDO POR LEI APLICÁVEL OU ACORDADO POR
+ESCRITO, QUALQUER TITULAR DE DIREITOS AUTORAIS OU QUALQUER OUTRA PARTE QUE POSSA
+MODIFICAR E/OU REDISTRIBUIR O PROGRAMA CONFORME PERMITIDO ACIMA, SERÁ RESPONSÁVEL
+PERANTE O LICENCIADO POR DANOS, INCLUINDO QUAISQUER DANOS GERAIS, ESPECIAIS, INCIDENTAIS
+OU CONSEQUENCIAIS DECORRENTES DO USO OU INCAPACIDADE DE USO DO PROGRAMA (INCLUINDO, 
+MAS NÃO SE LIMITANDO A, PERDA DE DADOS, DADOS SENDO TORNADOS IMPRECISOS, PERDAS
+SOFRIDAS PELO LICENCIADO OU TERCEIROS OU UMA FALHA DO PROGRAMA A OPERAR COM QUAISQUER
+OUTROS PROGRAMAS), MESMO QUE TAL TITULAR OU OUTRA PARTE TENHA SIDO AVISADO DA
+POSSIBILIDADE DE TAIS DANOS.
+
+FIM DA LICENÇA 

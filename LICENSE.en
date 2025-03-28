@@ -1,0 +1,110 @@
+BRAZILIAN PUBLIC SOFTWARE LICENSE (LPS Brasil) - Version 3.0
+=====================================================================
+NOTE: This is an unofficial English translation provided for reference.
+The official license is in Portuguese and available in the LICENSE file.
+In case of any discrepancy, the Portuguese version shall prevail.
+=====================================================================
+
+This license was created in adherence to the Brazilian legal environment,
+respecting Brazilian legislation and the adopted technical-legal terminology,
+being compatible with international free software licenses.
+
+PREAMBLE
+
+This Brazilian Public Software License (LPS Brasil) is a legal document
+and aims to protect the rights of software users who use this
+license, allowing them to have the freedom to use, modify and redistribute the
+licensed program, prohibiting the abusive exercise of rights.
+
+The software licensed by this license is free and protected by national and
+international laws dealing with intellectual property. The LPS Brasil does not restrict
+the rights of the author or owner of the computer program and is in conformity
+with the free software policy established by the Brazilian Government, observing
+the principles of freedom of use, copying, modification and redistribution.
+
+Considering that the program licensed through LPS Brasil will be free by nature,
+use, copying, distribution and modification are permitted. However, to preserve the
+interests of authors/owners and users, it is prohibited that this software be
+incorporated into proprietary software and that the use, copying, distribution and modification
+be limited by industrial patents or by any other form that restricts
+the freedoms of the user.
+
+TERMS AND CONDITIONS
+
+DEFINITIONS:
+
+1. "Program" means the software licensed by this LPS Brasil, in its format
+   original or modified;
+2. "Original Program" is the program before any changes have been made;
+3. "Derived Program" is the program resulting from the alteration made to the Original
+   Program;
+4. "Author" is the copyright holder of the Program;
+5. "Licensor" is the one who distributes the program under this license;
+6. "Licensee" is any person who receives the program under this license;
+7. "Source code" is the preferred form of the program for modifications, including
+   all the modules that compose it, interface definition files, scripts and
+   others necessary for the compilation and installation of the program;
+8. "Interface" is a set of functions, commands, options and message formats
+   through which a program communicates with the user or with other programs;
+9. "Library" is any compilation of functions or routines that can be used
+   by a program;
+10. "Derived Library" is any library that derives wholly or in parts
+    from a library licensed by this license.
+
+LICENSE TERMS:
+
+1. The LPS Brasil applies to any program or other work that contains a
+   notice placed by the copyright owner stating that the program may
+   be distributed under the terms of this license.
+
+2. The Licensee is guaranteed the right to copy, modify, publish, distribute,
+   sublicense and/or sell copies of the program, provided that the following
+   conditions are met:
+
+   a) The Licensee must keep visible in all derived programs the copyright
+      notice and a copy of the license;
+   b) The licensee shall cause any modified file to contain a notice
+      clearly visible indicating that the file has been altered and the date of the alteration;
+   c) If the derived program is interactive, it must display a copyright notice
+      and indicate where the full text of the license can be found;
+   d) The licensee must maintain attributions of authorship.
+
+3. The source code of the program, original or derived, must be available to any
+   user.
+
+4. The distribution of derived programs is subject to the same conditions established
+   in this license.
+
+5. Any use, modification or distribution of the program implies acceptance of the
+   terms of this license.
+
+6. This license does not grant any type of authorization for the use of the name of the
+   authors in advertising.
+
+7. This license does not include the right to use patents of the author/owner of the program.
+
+8. Ownership Notice:
+   SVforensics Project, a tool for forensic speaker verification.
+   Developed by Rafaello Virgilli and Lucas Alcântara Souza as part of their official duties at the Scientific Police of Goiás (https://www.policiacientifica.go.gov.br/).
+   © 2023-2024 Scientific Police of Goiás. All rights reserved.
+
+DISCLAIMER OF WARRANTY:
+
+THE PROGRAM IS LICENSED WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUDING,
+WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS ASSUMED BY THE LICENSEE. IF THE PROGRAM PROVES DEFECTIVE, THE LICENSEE ASSUMES
+THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+LIMITATION OF LIABILITY:
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY
+COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM
+AS PERMITTED ABOVE, BE LIABLE TO THE LICENSEE FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA
+BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY THE LICENSEE OR THIRD PARTIES OR A
+FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR
+OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+END OF LICENSE 

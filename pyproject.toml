@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "svforensics"
+version = "0.1.0"
+description = "A toolkit for speaker verification forensics"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "gdown",
+    "requests",
+    "pandas",
+    "torch",
+    "numpy",
+    "matplotlib",
+    "scikit-learn",
+    "librosa",
+    "soundfile",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+]
+
+[project.scripts]
+svf = "svforensics.__main__:main"
+
+[tool.setuptools]
+packages = ["svforensics"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py" 

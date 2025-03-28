@@ -1,0 +1,46 @@
+{
+    "figure_size": [14, 8],
+    "bins": 60,
+    "colors": {
+        "same_speaker": "skyblue",
+        "different_speaker": "coral",
+        "case_score": "red"
+    },
+    "use_kde": false,
+    "show_mean_lines": false,
+    "show_std_lines": false,
+    "alpha": 0.7,
+    "linewidth": 2,
+    "font_sizes": {
+        "title": 20,
+        "labels": 16,
+        "legend": 12
+    },
+    "dpi": 300,
+    "localization": {
+        "en": {
+            "title": "Speaker Comparison Analysis",
+            "x_axis": "Cosine Similarity Score",
+            "y_axis": "Frequency",
+            "legend": {
+                "same_speaker": "Same Speaker",
+                "different_speaker": "Different Speaker",
+                "case_score": "Case Score"
+            },
+            "mean_line": "Mean",
+            "std_line": "Standard Deviation"
+        },
+        "pt_BR": {
+            "title": "Análise de Comparação de Locutor",
+            "x_axis": "Similaridade do Cosseno",
+            "y_axis": "Frequência",
+            "legend": {
+                "same_speaker": "Mesmo Locutor",
+                "different_speaker": "Locutor Diferente",
+                "case_score": "Pontuação do Caso"
+            },
+            "mean_line": "Média",
+            "std_line": "Desvio Padrão"
+        }
+    }
+} 

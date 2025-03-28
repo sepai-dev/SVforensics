@@ -1,0 +1,59 @@
+{
+    "audio": {
+        "audio_extensions": [
+            ".wav",
+            ".mp3",
+            ".flac",
+            ".m4a",
+            ".ogg"
+        ],
+        "chunk_duration": 4.0,
+        "fade_duration": 0.05,
+        "sample_rate": 16000
+    },
+    "model": {
+        "repository": "Jenthe/ECAPA2",
+        "filename": "ecapa2.pt"
+    },
+    "paths": {
+        "case_analysis_plot": "files/plots/case_analysis.png",
+        "case_dir": "files/case_audios",
+        "data_dir": "files",
+        "download_info_file": "config/download_info.json",
+        "downloads_dir": "files/downloads",
+        "embeddings_dir": "files/generated/case/embeddings",
+        "raw_embeddings_file": "files/downloads/vox1_test_whatsapp_ecapa2.pth",
+        "processed_embeddings_file": "files/generated/metadata_embeddings/processed_embeddings.pth",
+        "metadata_file": "files/downloads/vox1_meta.csv",
+        "models_cache_dir": "files/downloads/models",
+        "output_prefix": "files/generated/metadata_embeddings/processed_embeddings",
+        "plots_dir": "files/plots",
+        "probe_dir": "files/case_audios/probe",
+        "probe_processed_dir": "files/generated/case/audio_chunks/probe",
+        "probe_embeddings_file": "files/generated/case/embeddings/probe_embeddings.pt",
+        "processed_audio_dir": "files/generated/case/audio_chunks",
+        "processed_dir": "files/generated",
+        "reference_dir": "files/case_audios/reference",
+        "reference_processed_dir": "files/generated/case/audio_chunks/reference",
+        "reference_embeddings_file": "files/generated/case/embeddings/reference_embeddings.pt",
+        "test_balanced_path": "files/generated/testlists/test_list_gender_m_diff_videos.txt",
+        "test_list_prefix": "files/generated/testlists/test_list"
+    },
+    "processing": {
+        "drop_columns": [
+            "name",
+            "country",
+            "subset"
+        ]
+    },
+    "testlists": {
+        "different_videos": true,
+        "n_neg": 4,
+        "n_pos": 4,
+        "random_seed": 42,
+        "test_prop": 0.5
+    },
+    "ui": {
+        "default_language": "pt_BR"
+    }
+}
