@@ -95,12 +95,9 @@ Here's a typical command-line workflow using the toolkit. Many commands can work
 
 A Google Colab notebook is provided in the `notebooks/` directory (`notebooks/SVForensics.ipynb`) demonstrating a typical workflow.
 
-To use it:
-1. Open Google Colab.
-2. Go to `File > Open notebook`.
-3. Select the `GitHub` tab.
-4. Enter the repository URL: `https://github.com/sepai-dev/SVforensics` (or your fork).
-5. Navigate to `notebooks/SVForensics.ipynb` and open it.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sepai-dev/SVforensics/blob/main/notebooks/svforensics.ipynb)
+
+Click the badge above to open the notebook directly in Google Colab.
 
 The notebook handles the installation of the `svforensics` package and guides you through downloading necessary files, uploading case audio, processing, and generating the analysis plot directly within the Colab environment.
 
