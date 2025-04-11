@@ -91,6 +91,19 @@ Here's a typical command-line workflow using the toolkit. Many commands can work
 
 *Use the `--help` flag with each command (e.g., `svf metadata-merge --help`) for detailed options.*
 
+### Google Colab Usage
+
+A Google Colab notebook is provided in the `notebooks/` directory (`notebooks/SVForensics.ipynb`) demonstrating a typical workflow.
+
+To use it:
+1. Open Google Colab.
+2. Go to `File > Open notebook`.
+3. Select the `GitHub` tab.
+4. Enter the repository URL: `https://github.com/sepai-dev/SVforensics` (or your fork).
+5. Navigate to `notebooks/SVForensics.ipynb` and open it.
+
+The notebook handles the installation of the `svforensics` package and guides you through downloading necessary files, uploading case audio, processing, and generating the analysis plot directly within the Colab environment.
+
 ## Project Structure
 
 ```
@@ -142,7 +155,7 @@ The official license text is available in Portuguese (LICENSE) with an English t
 © 2023-2024 Polícia Científica de Goiás. All rights reserved.
 
 ## TODO:
-- notebook colab com pip install do pacote, upload automático dos arquivos ref e probe, etc
+- ~~notebook colab com pip install do pacote, upload automático dos arquivos ref e probe, etc~~ (Notebook added to `notebooks/`)
 - criação do apêndice do laudo
 - plus/extras
 	- comparação padrão vs n_questionado
