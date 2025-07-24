@@ -1,110 +1,279 @@
-LICENÇA PÚBLICA DE SOFTWARE BRASILEIRO (LPS Brasil) - Versão 3.0
-=====================================================================
-NOTA: Esta é a versão original e oficial em Português da licença.
-Uma tradução para o Inglês está disponível no arquivo LICENSE.en.
-=====================================================================
+LICENÇA PÚBLICA RESTRITA COM CÓDIGO DISPONÍVEL SOB ACORDO
+SVforensics - Versão 1.0
+========================================================================
 
-Esta licença foi criada em aderência ao ambiente jurídico brasileiro, 
-respeitando a legislação brasileira e a terminologia técnico-jurídica adotada,
-sendo compatível com licenças internacionais de software livre.
+Esta licença é baseada na Apache License 2.0 com adições específicas 
+para uso restrito conforme determinado pela Coordenadoria de Ensino da 
+Superintendência de Polícia Técnico-Científica de Goiás.
 
-PREÂMBULO
+NOTA: Uma tradução para o Inglês está disponível no arquivo LICENSE.en.
 
-Esta Licença Pública de Software Brasileiro (LPS Brasil) é um documento jurídico 
-e tem como objetivo proteger os direitos do usuário de software que utiliza esta 
-licença, permitindo que o mesmo tenha liberdade de usar, alterar e redistribuir o
-programa licenciado, vedando o exercício abusivo de direitos.
+========================================================================
 
-O software licenciado por esta licença é livre e protegido pelas leis nacionais e
-internacionais que tratam da propriedade intelectual. A LPS Brasil não restringe
-os direitos do autor ou titular do programa de computador e está em conformidade
-com a política de software livre estabelecida pelo Governo Brasileiro, observando
-os princípios da liberdade de uso, cópia, alteração e redistribuição.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-Considerando que o programa licenciado através da LPS Brasil será livre por natureza,
-é permitido o uso, cópia, distribuição e modificação. Porém, para preservar os
-interesses dos autores/titulares e usuários, é proibido que este software seja
-incorporado em softwares proprietários e que o uso, cópia, distribuição e modificação
-sejam limitados por patentes industriais ou por qualquer outra forma que restrinja
-as liberdades do usuário.
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-TERMOS E CONDIÇÕES
+   1. Definitions.
 
-DEFINIÇÕES:
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
 
-1. "Programa" significa o software licenciado por esta LPS Brasil, em seu formato
-   original ou modificado;
-2. "Programa Original" é o programa antes de qualquer alteração ter sido efetuada;
-3. "Programa Derivado" é o programa resultante da alteração realizada no Programa
-   Original;
-4. "Autor" é o titular dos direitos autorais sobre o Programa;
-5. "Licenciante" é aquele que distribui o programa sob esta licença;
-6. "Licenciado" é qualquer pessoa que recebe o programa sob esta licença;
-7. "Código-fonte" é a forma preferencial do programa para modificações, incluindo
-   todos os módulos que o compõem, arquivos de definição de interface, scripts e
-   outros necessários para a compilação e instalação do programa;
-8. "Interface" é um conjunto de funções, comandos, opções e formatos de mensagem
-   por meio dos quais um programa se comunica com o usuário ou com outros programas;
-9. "Biblioteca" é qualquer compilação de funções ou rotinas que podem ser utilizadas
-   por um programa;
-10. "Biblioteca Derivada" é qualquer biblioteca que derive por completo ou em partes
-    de uma biblioteca licenciada por esta licença.
+      "Licensor" shall mean the copyright owner or entity granting the License.
 
-TERMOS DA LICENÇA:
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
 
-1. A LPS Brasil aplica-se a qualquer programa ou outro trabalho que contenha um
-   aviso colocado pelo titular dos direitos autorais informando que o programa pode
-   ser distribuído sob os termos desta licença.
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
 
-2. É garantido ao Licenciado o direito de copiar, modificar, publicar, distribuir,
-   sublicenciar e/ou vender cópias do programa, desde que sejam atendidas as seguintes
-   condições:
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
 
-   a) O Licenciado deve manter visível em todos os programas derivados o aviso de
-      direito autoral e uma cópia da licença;
-   b) O licenciado deverá fazer com que qualquer arquivo modificado contenha um aviso
-      bem visível indicando que o arquivo foi alterado e a data da alteração;
-   c) Se o programa derivado for interativo, deverá exibir aviso de direitos autorais
-      e indicar onde o texto integral da licença pode ser encontrado;
-   d) O licenciado deverá manter as atribuições de autoria.
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
 
-3. O código-fonte do programa, original ou derivado, deve estar disponível para qualquer
-   usuário.
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (which shall include the source code or documentation).
 
-4. A distribuição de programas derivados está sujeita às mesmas condições estabelecidas
-   nesta licença.
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based upon (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and derivative works thereof.
 
-5. Qualquer uso, modificação ou distribuição do programa implica na aceitação dos
-   termos desta licença.
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to the Licensor for inclusion in the Work by the copyright
+      owner or by an individual or Legal Entity authorized to submit on behalf
+      of the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control
+      systems, and issue tracking systems that are managed by, or on behalf
+      of, the Licensor for the purpose of discussing and improving the Work,
+      but excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
 
-6. Esta licença não concede qualquer tipo de autorização para o uso do nome dos
-   autores em publicidade.
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
 
-7. Esta licença não inclui direito de uso de patentes do autor/titular do programa.
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to use, reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
 
-8. Aviso de Propriedade:
-   Projeto SVforensics, uma ferramenta para verificação forense de locutor.
-   Desenvolvido por Rafaello Virgilli e Lucas Alcântara Souza como parte de suas funções oficiais na Polícia Científica de Goiás (https://www.policiacientifica.go.gov.br/).
-   © 2023-2024 Polícia Científica de Goiás. Todos os direitos reservados.
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
 
-AUSÊNCIA DE GARANTIAS:
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
 
-O PROGRAMA É LICENCIADO SEM QUALQUER GARANTIA, SEJA EXPRESSA OU IMPLÍCITA, INCLUINDO,
-SEM LIMITAÇÃO, AS GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E DE ADEQUAÇÃO A UMA
-FINALIDADE ESPECÍFICA. O RISCO INTEGRAL QUANTO À QUALIDADE E DESEMPENHO DO PROGRAMA
-É ASSUMIDO PELO LICENCIADO. SE O PROGRAMA SE REVELAR DEFEITUOSO, O LICENCIADO ASSUME
-O CUSTO DE TODOS OS SERVIÇOS, REPAROS OU CORREÇÕES NECESSÁRIAS.
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License;
 
-LIMITAÇÃO DE RESPONSABILIDADE:
+      (b) You must cause any modified files to contain prominent notices
+          stating that You changed the files;
 
-EM NENHUMA CIRCUNSTÂNCIA, EXCETO QUANDO EXIGIDO POR LEI APLICÁVEL OU ACORDADO POR
-ESCRITO, QUALQUER TITULAR DE DIREITOS AUTORAIS OU QUALQUER OUTRA PARTE QUE POSSA
-MODIFICAR E/OU REDISTRIBUIR O PROGRAMA CONFORME PERMITIDO ACIMA, SERÁ RESPONSÁVEL
-PERANTE O LICENCIADO POR DANOS, INCLUINDO QUAISQUER DANOS GERAIS, ESPECIAIS, INCIDENTAIS
-OU CONSEQUENCIAIS DECORRENTES DO USO OU INCAPACIDADE DE USO DO PROGRAMA (INCLUINDO, 
-MAS NÃO SE LIMITANDO A, PERDA DE DADOS, DADOS SENDO TORNADOS IMPRECISOS, PERDAS
-SOFRIDAS PELO LICENCIADO OU TERCEIROS OU UMA FALHA DO PROGRAMA A OPERAR COM QUAISQUER
-OUTROS PROGRAMAS), MESMO QUE TAL TITULAR OU OUTRA PARTE TENHA SIDO AVISADO DA
-POSSIBILIDADE DE TAIS DANOS.
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
 
-FIM DA LICENÇA 
+      (d) If the Work includes a "NOTICE" file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright notice to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. When redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+========================================================================
+
+ANEXO - CLÁUSULAS ESPECÍFICAS PARA O PROJETO SVFORENSICS
+Polícia Científica de Goiás
+
+Em adição aos termos da Apache License 2.0 acima, o uso deste software 
+está sujeito às seguintes restrições específicas:
+
+SEÇÃO A - RESTRIÇÕES DE USO
+
+1. USO AUTORIZADO: A utilização deste software é permitida exclusivamente 
+   para:
+   a) Pesquisa acadêmica e científica em instituições de ensino superior
+   b) Avaliação técnica por especialistas em fonética forense
+   c) Uso interno por instituições governamentais de segurança pública 
+      e ciência forense
+   d) Colaboração científica autorizada conforme Seção C
+
+2. USO RESTRITO: É expressamente PROIBIDO:
+   a) O uso deste software em perícias oficiais, laudos técnicos ou 
+      qualquer documento de caráter probatório sem prévia e expressa 
+      autorização por escrito da Polícia Científica de Goiás
+   b) A redistribuição do código-fonte ou de versões compiladas do software
+   c) O uso comercial direto ou indireto do software
+   d) A incorporação do software em produtos comerciais
+
+SEÇÃO B - CONTROLE DE MODIFICAÇÕES
+
+3. MODIFICAÇÕES: Modificações no código-fonte são permitidas apenas para:
+   a) Fins de pesquisa e desenvolvimento
+   b) Propostas de melhorias a serem submetidas à Polícia Científica de Goiás
+   
+4. SUBMISSÃO DE MELHORIAS: Todas as modificações e melhorias devem ser 
+   submetidas para avaliação da Polícia Científica de Goiás através do 
+   repositório oficial. A incorporação de modificações na versão oficial 
+   fica a critério exclusivo da Polícia Científica de Goiás.
+
+SEÇÃO C - ACESSO E COLABORAÇÃO
+
+5. ACESSO CONTROLADO: O acesso ao código-fonte deste repositório privado 
+   é concedido mediante:
+   a) Assinatura de Termo de Responsabilidade e Acordo de Colaboração
+   b) Aprovação prévia pela Polícia Científica de Goiás
+   c) Comprometimento com as condições desta licença
+
+6. COLABORAÇÃO CIENTÍFICA: Instituições de pesquisa e órgãos periciais 
+   interessados em colaborar devem entrar em contato com a Polícia 
+   Científica de Goiás através dos canais oficiais.
+
+SEÇÃO D - ATRIBUIÇÃO E PROPRIEDADE INTELECTUAL
+
+7. ATRIBUIÇÃO OBRIGATÓRIA: Qualquer uso, modificação ou citação deste 
+   software deve manter a atribuição aos autores originais e à Polícia 
+   Científica de Goiás conforme especificado na seção de direitos autorais.
+
+8. PROPRIEDADE INTELECTUAL: Este software foi desenvolvido como parte das 
+   atribuições oficiais dos peritos na Polícia Científica de Goiás. 
+   Todos os direitos de propriedade intelectual pertencem ao Estado de Goiás.
+
+SEÇÃO E - RESCISÃO
+
+9. VIOLAÇÃO DOS TERMOS: Qualquer violação das condições desta licença 
+   resultará na rescisão imediata dos direitos de uso e acesso ao software.
+
+10. RESPONSABILIDADES: O usuário é integralmente responsável por qualquer 
+    uso inadequado do software e pelas consequências decorrentes.
+
+========================================================================
+
+DIREITOS AUTORAIS E AUTORIA
+
+Projeto SVforensics - Ferramenta de Verificação Forense de Locutor
+Desenvolvido por Rafaello Virgilli (@rvirgilli) e Lucas Alcântara Souza 
+(@lucasalcs) como parte de suas atribuições oficiais na Polícia Científica 
+de Goiás.
+
+Copyright (c) 2024-2025 Polícia Científica de Goiás
+Website: https://www.policiacientifica.go.gov.br/
+Todos os direitos reservados.
+
+========================================================================
+
+CONTATO PARA COLABORAÇÃO
+
+Para solicitar acesso ao código-fonte ou propor colaborações científicas, 
+entre em contato através dos canais oficiais da Polícia Científica de Goiás:
+
+- Website: https://www.policiacientifica.go.gov.br/
+- Email: [email institucional a ser definido]
+
+======================================================================== 

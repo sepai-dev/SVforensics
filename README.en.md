@@ -49,14 +49,14 @@ This unified approach makes the code more maintainable while still offering both
 
 This project was developed by Rafaello Virgilli ([@rvirgilli](https://github.com/rvirgilli)) and Lucas Alcântara Souza ([@lucasalcs](https://github.com/lucasalcs)) as part of their official duties at [Polícia Científica de Goiás](https://www.policiacientifica.go.gov.br/).
 
-This software is licensed under the Brazilian Public Software License (LPS Brasil) Version 3.0.
+This software is licensed under a Restricted Public License with Source Available under Agreement, based on the Apache License 2.0 with specific clauses from Polícia Científica de Goiás.
 
-This license ensures that the software:
-- Can be freely used, modified, and distributed
-- Must maintain attribution to the original authors and the Polícia Científica de Goiás
-- Must make the source code available to all users
-- Cannot be incorporated into proprietary software
-- Must preserve the same freedoms in all derivative works
+This license establishes that:
+- Use is permitted for academic research, technical evaluation, and governmental use
+- Use in official forensic examinations requires prior authorization from Polícia Científica de Goiás
+- Modifications are encouraged for research and collaboration purposes
+- Access to source code is controlled through collaboration agreements
+- Redistribution is restricted to maintain quality and security
 
 The official license text is available in Portuguese (LICENSE) with an English translation provided for reference (LICENSE.en).
 

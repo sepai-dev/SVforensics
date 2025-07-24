@@ -49,14 +49,14 @@ Esta abordagem unificada torna o código mais fácil de manter, ao mesmo tempo q
 
 Este projeto foi desenvolvido por Rafaello Virgilli ([@rvirgilli](https://github.com/rvirgilli)) e Lucas Alcântara Souza ([@lucasalcs](https://github.com/lucasalcs)) como parte de suas atribuições oficiais na [Polícia Científica de Goiás](https://www.policiacientifica.go.gov.br/).
 
-Este software está licenciado sob a Licença Pública de Software Brasileira (LPS Brasil) Versão 3.0.
+Este software está licenciado sob uma Licença Pública Restrita com Código Disponível sob Acordo, baseada na Apache License 2.0 com cláusulas específicas da Polícia Científica de Goiás.
 
-Esta licença garante que o software:
-- Pode ser livremente usado, modificado e distribuído
-- Deve manter a atribuição aos autores originais e à Polícia Científica de Goiás
-- Deve disponibilizar o código fonte a todos os usuários
-- Não pode ser incorporado em software proprietário
-- Deve preservar as mesmas liberdades em todos os trabalhos derivados
+Esta licença estabelece que:
+- O uso é permitido para pesquisa acadêmica, avaliação técnica e uso governamental
+- O uso em perícias oficiais requer autorização prévia da Polícia Científica de Goiás
+- Modificações são encorajadas para fins de pesquisa e colaboração
+- O acesso ao código-fonte é controlado mediante acordo de colaboração
+- A redistribuição é restrita para manter a qualidade e segurança
 
 O texto oficial da licença está disponível em Português (LICENSE) com uma tradução para o Inglês fornecida para referência (LICENSE.en).
 
