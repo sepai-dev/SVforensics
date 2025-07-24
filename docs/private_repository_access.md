@@ -74,9 +74,9 @@ Uma versão atualizada do notebook do Google Colab está sendo preparada especif
 - Instruções específicas para download de arquivos
 - Configuração adequada para ambiente privado
 
-## Para Uso Institucional (Polícia Científica de Goiás)
+## Para Usuários da Polícia Científica de Goiás
 
-O acesso interno não requer token, pois os peritos têm acesso direto ao repositório através da conta organizacional.
+Todos os usuários autorizados devem utilizar o token fornecido oficialmente para acessar o repositório privado.
 
 ## Suporte Técnico
 
